@@ -1,4 +1,4 @@
-# Py7TDMI7
+# Py7TDMI
 # Copyright (C) 2025 Intiha
 # This program is free software: you can redistribute it and/or modify
 # it under the terms of the GNU General Public License as published by
