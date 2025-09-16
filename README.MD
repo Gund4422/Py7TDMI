@@ -1,7 +1,6 @@
 # License
 
-![License: GPL v3](https://img.shields.io/badge/License-GPLv3-red.svg)  
-[GNU GPL v3](https://www.gnu.org/licenses/gpl-3.0)
+![License: IntiLicenseV1](https://img.shields.io/badge/License-IntiLicenseV1-red.svg "Totally official, trust me 😏")
 
 ---
 
@@ -22,7 +21,3 @@ Ever wanted to play with ARM7TDMI without a physical board? Now you can!
 - **ARM Holdings** – For designing the ARM7TDMI  
 - **Me!** – For making the ARM7TDMI in Python  
 - **You!** – For supporting me :D
-
-## Some stuff:
-Py7TDMI is not affiliated with ARM Holdings.
-It’s purely educational / for enthusiasts.
