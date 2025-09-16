@@ -22,3 +22,6 @@ Ever wanted to play with ARM7TDMI without a physical board? Now you can!
 - **ARM Holdings** – For designing the ARM7TDMI  
 - **Me!** – For making the ARM7TDMI in Python  
 - **You!** – For supporting me :D
+Py7TDMI is not affiliated with ARM Holdings.
+
+It’s purely educational / for enthusiasts.
