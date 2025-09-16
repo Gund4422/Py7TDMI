@@ -4,8 +4,8 @@
 
 ---
 
-Py7TDMI is licensed under the **GNU General Public License v3.0**.  
-You are free to use, modify, and distribute this software, but any derivative work must also be licensed under GPL v3.
+Py7TDMI is licensed under the **Inti-License V1**.  
+You are free to use, modify, and distribute this software, but any derivative work must also be licensed under Inti-License v1.
 
 # Py7TDMI
 Yay! ARM7TDMI for Python enthusiasts.  
