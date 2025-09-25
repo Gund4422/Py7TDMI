@@ -1,3 +1,12 @@
+"""
+Py7TDMI - Inti-License V2
+Copyright (C) 2025 Intiha (aka Gund4422)
+
+This software is licensed under Inti-License Version 2 (V2).
+You may use, modify, and redistribute it, but all derivatives must remain under Inti-License V2.
+Please credit Intiha / Gund4422 and ARM Holdings for the original CPU design.
+"""
+
 import numpy as np
 from numba import njit
 
