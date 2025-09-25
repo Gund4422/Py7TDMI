@@ -1,25 +1,34 @@
-Inti-License Version 1
+Inti-License Version 2 (IntiLicenseV2)
 
-Copyright (C) 2025 Intiha/Gund4422
+Copyright (C) 2025 Intiha (aka Gund4422)
 
-This software is released under Inti-License Version 1, a custom license created for Py7TDMI.
+Py7TDMI is licensed under Inti-License Version 2 (V2), a strong copyleft license inspired by the GPL, designed to ensure freedom, modification rights, and mandatory crediting.
 
-Permissions
+1. Freedom to Use, Study, and Modify
 
-You are free to use, copy, and modify Py7TDMI for personal, educational, or experimental purposes.
+You are free to:
 
-You may share modified versions under the same IntiLicenseV1.
+Use Py7TDMI for any purpose, including personal, educational, experimental, or commercial projects.
 
-Restrictions
+Study and modify Py7TDMI to suit your needs.
 
-Py7TDMI is not affiliated with ARM Holdings.
+Distribute original or modified versions, provided all redistributed versions comply with Inti-License V2.
 
-You cannot sell or claim ownership of the original code.
+2. Requirements for Redistribution
 
-If you redistribute Py7TDMI, you must credit the original author (Intiha, aka Gund4422) and ARM Holdings for the original CPU design.
+When redistributing Py7TDMI (original or modified):
 
-Disclaimer
+You must credit the original author (Intiha / Gund4422) and ARM Holdings for the original CPU design.
 
-This software is provided “as-is”, without warranty of any kind.
+You must include this license text with the redistributed code.
 
-The author is not responsible for any damages resulting from its use.
+You cannot claim ownership of the original Py7TDMI code.
+
+All modifications must remain under Inti-License V2 (strong copyleft).
+
+You may sell modified versions, but you must retain the license and credit requirements.
+
+3. Disclaimer
+
+Py7TDMI is provided “as-is”, without warranty of any kind.
+The author is not responsible for any damages, loss, or issues arising from its use.
