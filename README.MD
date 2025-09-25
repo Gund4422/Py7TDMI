@@ -48,20 +48,3 @@ cpu.step_batch(10)
 
 ![Python Version](https://img.shields.io/badge/python-3.10%2B-blue)
 ![Numba Support](https://img.shields.io/badge/numba-supported-green)
-
----
-
-## License Header Snippet
-
-You can include this at the top of all Python files:
-
-```python
-"""
-Py7TDMI - Inti-License V2
-Copyright (C) 2025 Intiha (aka Gund4422)
-
-This software is licensed under Inti-License Version 2 (V2).
-You may use, modify, and redistribute it, but all derivatives must remain under Inti-License V2.
-Please credit Intiha / Gund4422 and ARM Holdings for the original CPU design.
-"""
-```
